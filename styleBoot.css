@@ -1,0 +1,39 @@
+.jumbotron {
+  background-color: rgb(255, 188, 133);
+  /* padding: 20px; */
+}
+.myPic {
+  margin-top: 70px;
+  width: 200px;
+  height: 200px;
+  /* border-radius: 50%; */
+}
+#about .container {
+  height: 50vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+#projects {
+  background-color: rgb(255, 188, 133);
+}
+#contact {
+  margin-top: -12rem;
+}
+#contact h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  background-color: rgb(247, 115, 27);
+}
+section {
+  padding-top: 3rem;
+}
+section#projects {
+  padding-top: 7rem;
+}
